@@ -1,7 +1,7 @@
 
 # Boston Airbnb Data Analysis
 
-This repository contains a Jupyter Notebook analyzing Airbnb rental pricing patterns in Boston for a Udacity project. The analysis explores factors influencing pricing, with a focus on neighborhood characteristics as a key variable.
+This repository contains a Jupyter Notebook analyzing Airbnb rental pricing patterns in Boston for a Udacity project. The analysis explores factors influencing pricing, with a focus on neighborhoods as a key variable.
 
 ## Project Overview
 - **Objective**: Investigate how various factors affect Airbnb rental prices in Boston.
@@ -34,4 +34,4 @@ This repository contains a Jupyter Notebook analyzing Airbnb rental pricing patt
 
 This project was developed with the support of OpenAI's ChatGPT for code explanation, README file creation, and analytical guidance. ChatGPT helped streamline and clarify the project documentation.
 
-For a detailed write-up of this project, please see the Medium blog post [here](https://medium.com/@mdizadi/understanding-starbucks-customer-behavior-f2055400f790).
+For a detailed write-up of this project, please see the Medium blog post [here](https://medium.com/@mdizadi/boston-airbnb-neighborhoods-pricing-1783f8ea730a).
