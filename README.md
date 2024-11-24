@@ -6,8 +6,8 @@ This repository contains a Jupyter Notebook analyzing Airbnb rental pricing patt
 ## Project Overview
 - **Objective**: Investigate how various factors affect Airbnb rental prices in Boston.
 - **Data Source**: 
-- listing.csv includes information about listings. Data scraped on **September 7, 2016**. 
-- Boston Neighborhood Boundaries Approximated by 2020 Census Block Groups are taken from 
+    - listing.csv includes information about listings. Data scraped on **September 7, 2016**. 
+    - Boston Neighborhood Boundaries Approximated by 2020 Census Block Groups are taken from 
  __[ANALYZE BOSTON](https://data.boston.gov/dataset/boston-neighborhood-boundaries-approximated-by-2020-census-block-groups1)__.
  
 
